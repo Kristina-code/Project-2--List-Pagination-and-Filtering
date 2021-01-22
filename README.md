@@ -3,7 +3,7 @@
  Treehouse Techdegree
  by Kristina Flamer
 
-This project is for a previous version of project 2.  It is for meets expectations.
+This project is for Project 2.  It is for meets expectations.
 References were used for this project and they are listed below.
 
 "Javascript & JQuery- interactive front-end web development", Jon Duckett, 2014.
