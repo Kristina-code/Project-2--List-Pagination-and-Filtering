@@ -22,9 +22,9 @@ const studentPages = 10;
 function showPage(list, page) {
 
 //Creates two variables to store the start and the end index of the students.
-   const startIndex = page * studentPages - studentPages;  //
+const startIndex = page * studentPages - studentPages;  //
 
-   const endIndex = page * studentPages;                  //
+const endIndex = page * studentPages;                  //
 
 // Creates a for loop to loop through each item and hide all of the names to show amount of ones necessary to display. 
 
@@ -88,7 +88,7 @@ function appendPageLinks(list) {
  //Div element with the class '.page' is stored in the Variable 'Div'. 
  const Div = document.querySelector(".page");
 
- // Calls the showPage function, event is passed inside of the function.
+ // Calls the event inside of the function.
 
    Div.addEventListener("click", e => {
 
